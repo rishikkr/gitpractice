@@ -17,4 +17,8 @@ feature1()
 {
  /Sample COde
 }
+feature2()
+{
+ //sample code
+}
 }
