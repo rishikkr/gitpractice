@@ -13,4 +13,8 @@ new patch update()
 {
  //patch code
 }
+feature1()
+{
+ /Sample COde
+}
 }
